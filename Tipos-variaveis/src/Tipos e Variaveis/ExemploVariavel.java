@@ -1,3 +1,4 @@
+package Variaveis;
 public class ExemploVariavel {
 	public static void main(String[] args) {
 		/*

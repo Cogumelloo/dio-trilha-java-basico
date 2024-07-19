@@ -1,3 +1,4 @@
+package Variaveis;
 public class TipoDados {
 	public static void main(String[] args) {
 
