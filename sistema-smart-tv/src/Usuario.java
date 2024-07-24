@@ -10,6 +10,8 @@ public class Usuario {
         System.out.println("Novo status -> TV ligada? " + smartTV.ligada);
 
         smartTV.aumentarVolume();
+        smartTV.aumentarVolume();
+        smartTV.aumentarVolume();
         System.out.println("Novo status -> Volume atual: " + smartTV.volume);
 
         smartTV.mudarCanal(19);
